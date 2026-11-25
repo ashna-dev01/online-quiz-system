@@ -69,6 +69,28 @@ This project was developed as part of the B.Sc. Computer Science academic curric
 
 This project was developed as part of a B.Sc. Computer Science group academic project. I independently handled the development and implementation of the application, including the frontend, backend and database integration.
 
+
+## Screenshots
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home%20page.png)
+
+### Participant Dashboard
+![Participant Dashboard](screenshots/participant%20dashboard.png)
+
+![Participant Dashboard 2](screenshots/participant%20dashboard2.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin%20dashboard.png)
+
+![Admin Dashboard 2](screenshots/admin%20dashboard2%20.png)
+
+### Leaderboard
+![Leaderboard](screenshots/leaderboard.png)
+
+
 ## Developed By
 
 B.Sc. Computer Science – Academic Group Project

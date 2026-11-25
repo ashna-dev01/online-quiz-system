@@ -65,6 +65,10 @@ This project was developed as part of the B.Sc. Computer Science academic curric
 - Email notifications
 - Enhanced reporting features
 
+  ## Project Credits
+
+This project was developed as part of a B.Sc. Computer Science group academic project. I independently handled the development and implementation of the application, including the frontend, backend and database integration.
+
 ## Developed By
 
 B.Sc. Computer Science – Academic Group Project

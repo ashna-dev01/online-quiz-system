@@ -75,17 +75,17 @@ This project was developed as part of a B.Sc. Computer Science group academic pr
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home%20page.png)
+![Home Page](screenshots/home-page.png)
 
 ### Participant Dashboard
-![Participant Dashboard](screenshots/participant%20dashboard.png)
+![Participant Dashboard](screenshots/participant-dashboard.png)
 
-![Participant Dashboard 2](screenshots/participant%20dashboard2.png)
+![Participant Dashboard 2](screenshots/participant-dashboard-2.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin%20dashboard.png)
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
-![Admin Dashboard 2](screenshots/admin%20dashboard2%20.png)
+![Admin Dashboard 2](screenshots/admin-dashboard-2.png)
 
 ### Leaderboard
 ![Leaderboard](screenshots/leaderboard.png)

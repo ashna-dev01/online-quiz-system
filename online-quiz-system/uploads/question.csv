@@ -1,0 +1,191 @@
+category_id,category_id,category_id,category_id,category_id,category_id,category_id
+1,Which country has the highest number of pyramids?,Egypt,Mexico,Sudan,Peru,option3
+1,Which is the only letter that does not appear in the periodic table?,J,Q,X,Z,option1
+1,Which country has the most active volcanoes?,Indonesia,Japan,Chile,Iceland,option1
+1,Which country has the most time zones?,Russia,USA,France,Australia,option3
+1,Which is the only mammal capable of true flight?,Flying squirrel,Bat,Penguin,Ostrich,option2
+1,Which country is known as the Land of a Thousand Lakes?,Norway,Finland,Sweden,Canada,option2
+1,What is the hardest natural substance on Earth?,Quartz,Diamond,Gold,Iron,option2
+1,Which is the largest island in the world?,Australia,Greenland,Madagascar,Borneo,option2
+1,How many hearts does an octopus have?,1,2,3,4,option3
+1,Which metal is liquid at room temperature?,Silver,Mercury,Aluminium,Copper,option2
+1,Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Mercury,option2
+1,Which is the longest river in the world?,Amazon,Nile,Yangtze,Mississippi,option2
+1,Which country gifted the Statue of Liberty to the United States?,Germany,France,Italy,Spain,option2
+1,What is the capital city of Australia?,Sydney,Melbourne,Canberra,Perth,option3
+1,Which ocean is the largest?,Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean,option4
+1,Which gas do plants absorb from the atmosphere?,Oxygen,Nitrogen,Carbon Dioxide,Hydrogen,option3
+1,Which is the smallest continent by land area?,Europe,Australia,Antarctica,South America,option2
+1,How many players are there in a standard football (soccer) team on the field?,9,10,11,12,option3
+1,Which instrument is used to measure atmospheric pressure?,Thermometer,Barometer,Hygrometer,Anemometer,option2
+1,Which is the tallest mountain in the world above sea level?,K2,Kangchenjunga,Mount Everest,Makalu,option3
+1,Which country is home to the Great Barrier Reef?,New Zealand,Australia,Indonesia,Philippines,option2
+1,Who invented the telephone?,Thomas Edison,Nikola Tesla,Alexander Graham Bell,Guglielmo Marconi,option3
+1,Which is the largest desert in the world?,Sahara Desert,Arabian Desert,Gobi Desert,Antarctica,option4
+1,Which country is known as the Land of the Rising Sun?,China,Japan,Thailand,South Korea,option2
+1,Which is the fastest land animal?,Lion,Cheetah,Leopard,Tiger,option2
+1,Which blood group is known as the universal donor?,A+,O-,AB+,B-,option2
+1,Which is the smallest country in the world?,Monaco,Vatican City,San Marino,Liechtenstein,option2
+1,In which year did the first human land on the Moon?,1965,1967,1969,1971,option3
+1,Which is the largest planet in our Solar System?,Earth,Saturn,Jupiter,Neptune,option3
+1,Which language has the highest number of native speakers in the world?,English,Hindi,Mandarin Chinese,Spanish,option3
+1,Which country hosted the 2022 FIFA World Cup?,Russia,Qatar,Brazil,France,option2
+1,What is the chemical symbol for Gold?,Ag,Au,Gd,Go,option2
+1,Which is the largest mammal in the world?,African Elephant,Blue Whale,Giraffe,Whale Shark,option2
+1,Which continent has the largest population?,Africa,Europe,Asia,North America,option3
+1,"Who wrote the play ""Romeo and Juliet""?",Charles Dickens,William Shakespeare,Jane Austen,Mark Twain,option2
+1,Which is the national currency of Japan?,Yuan,Won,Yen,Ringgit,option3
+1,Which planet is known for its prominent rings?,Jupiter,Saturn,Uranus,Neptune,option2
+1,Which organ in the human body pumps blood?,Brain,Lungs,Heart,Liver,option3
+1,Which is the tallest waterfall in the world?,Niagara Falls,Victoria Falls,Angel Falls,Iguazu Falls,option3
+1,"Which Indian city is known as the ""Silicon Valley of India""?",Hyderabad,Chennai,Bengaluru,Pune,option3
+1,Which country is famous for the Eiffel Tower?,Italy,Germany,France,Spain,option3
+1,What is the smallest prime number?,0,1,2,3,option3
+1,Which gas is most abundant in Earth's atmosphere?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,option3
+1,Which is the largest bird in the world?,Eagle,Ostrich,Penguin,Albatross,option2
+1,Who painted the Mona Lisa?,Vincent van Gogh,Pablo Picasso,Leonardo da Vinci,Michelangelo,option3
+1,Which is the largest ocean on Earth?,Atlantic Ocean,Indian Ocean,Pacific Ocean,Arctic Ocean,option3
+1,Which country is known as the Land of the Thunder Dragon?,Nepal,Bhutan,Mongolia,Tibet,option2
+1,Which device is used to detect earthquakes?,Thermometer,Seismograph,Barometer,Hygrometer,option2
+1,Which is the tallest building in the world (as of 2026)?,Shanghai Tower,Merdeka 118,Burj Khalifa,One World Trade Center,option3
+1,Which vitamin is mainly produced by the human body when exposed to sunlight?,Vitamin A,Vitamin B12,Vitamin C,Vitamin D,option4
+2,What does HTML stand for?,Hyper Text Markup Language,High Text Machine Language,Hyperlink Text Management Language,Home Tool Markup Language,option1
+2,Which programming language is primarily used with Flask?,Java,Python,C++,PHP,option2
+2,Which HTML tag is used to create a hyperlink?,<link>,<a>,<href>,<url>,option2
+2,Which CSS property is used to change the text color?,font-color,text-color,color,background-color,option3
+2,Which symbol is used to define an ID selector in CSS?,. (dot),# (hash),* (asterisk),@ (at),option2
+2,Which keyword is used to define a function in Python?,func,define,function,def,option4
+2,Which SQL command is used to retrieve data from a database?,GET,SELECT,FETCH,OPEN,option2
+2,Which PHP symbol is used before variable names?,@,#,$,%,option3
+2,Which Git command uploads local commits to GitHub?,git commit,git clone,git push,git pull,option3
+2,"Which data structure follows the Last In, First Out (LIFO) principle?",Queue,Array,Stack,Linked List,option3
+2,Which HTML tag is used to insert an image?,<picture>,<img>,<image>,<src>,option2
+2,Which CSS property controls the space inside an element's border?,margin,padding,spacing,border-space,option2
+2,Which JavaScript keyword declares a block-scoped variable?,var,let,define,constvar,option2
+2,Which SQL statement is used to add a new record into a table?,INSERT INTO,ADD ROW,NEW RECORD,CREATE ROW,option1
+2,Which Python data type is enclosed in square brackets [ ]?,Tuple,Dictionary,List,Set,option3
+2,Which HTML tag creates an unordered list?,<ol>,<ul>,<li>,<list>,option2
+2,Which Git command downloads a repository from GitHub for the first time?,git pull,git clone,git fetch,git init,option2
+2,Which SQL clause is used to filter records?,ORDER BY,GROUP BY,WHERE,FILTER,option3
+2,Which Python function is used to display output on the screen?,echo(),display(),print(),output(),option3
+2,Which CSS property makes text bold?,font-style,font-weight,text-decoration,text-weight,option2
+2,Which HTML tag is used to create a table row?,<td>,<tr>,<th>,<table>,option2
+2,Which CSS property is used to change the background color of an element?,color,background,background-color,bg-color,option3
+2,Which JavaScript function displays a popup message?,prompt(),alert(),message(),popup(),option2
+2,Which SQL command is used to remove a table from a database?,REMOVE TABLE,DELETE TABLE,DROP TABLE,ERASE TABLE,option3
+2,Which Python keyword is used to create a loop that repeats while a condition is true?,repeat,loop,while,for,option3
+2,Which HTML tag is used for the largest heading?,<h6>,<head>,<heading>,<h1>,option4
+2,Which Git command shows the current status of the repository?,git info,git status,git check,git log,option2
+2,Which SQL command is used to modify existing records?,UPDATE,MODIFY,ALTER,CHANGE,option1
+2,Which PHP function is commonly used to connect to a MySQL database using MySQLi?,mysqli_connect(),mysql_open(),connect_db(),db_connect(),option1
+2,Which symbol is used to write a single-line comment in Python?,//,,#,/* */,option3
+2,Which HTML tag is used to create a line break?,<break>,<lb>,<br>,<newline>,option3
+2,Which CSS property is used to round the corners of an element?,corner-radius,border-round,border-radius,radius,option3
+2,Which JavaScript operator is used for strict equality comparison?,==,=,===,!=,option3
+2,Which SQL clause is used to sort query results?,GROUP BY,ORDER BY,SORT BY,ARRANGE BY,option2
+2,Which Python keyword is used to define a class?,object,class,define,new,option2
+2,Which HTML attribute specifies the destination URL of a hyperlink?,src,link,href,target,option3
+2,Which Git command creates a new local repository?,git start,git clone,git init,git create,option3
+2,Which SQL command is used to permanently remove records from a table?,REMOVE,DELETE,DROP,CLEAR,option2
+2,Which PHP function is used to start a session?,start_session(),session_begin(),session_start(),begin_session(),option3
+2,Which Python function returns the number of items in a list?,size(),length(),count(),len(),option4
+2,Which HTML tag is used to create a numbered list?,<ul>,<ol>,<li>,<list>,option2
+2,Which CSS property is used to align text horizontally?,font-align,text-align,align,horizontal-align,option2
+2,Which JavaScript keyword is used to declare a constant variable?,var,let,constant,const,option4
+2,Which SQL function returns the total number of rows in a table?,SUM(),COUNT(),TOTAL(),ROWS(),option2
+2,Which Python keyword is used to import a module?,include,import,using,require,option2
+2,Which HTML tag is used to create a dropdown list?,<list>,<input>,<select>,<option>,option3
+2,Which Git command is used to view the commit history?,git history,git commits,git log,git show,option3
+2,Which SQL command is used to create a new table?,NEW TABLE,CREATE TABLE,ADD TABLE,MAKE TABLE,option2
+2,Which PHP function is used to execute a MySQL query using MySQLi?,mysqli_query(),mysqli_execute(),query_mysql(),mysql_query(),option1
+2,Which Python statement is used to stop a loop immediately?,exit,stop,break,continue,option3
+3,What is the chemical symbol for Oxygen?,O,Ox,Og,On,option1
+3,Which planet is known as the Blue Planet?,Venus,Earth,Neptune,Uranus,option2
+3,What is the largest organ in the human body?,Liver,Brain,Skin,Heart,option3
+3,Which gas is essential for human respiration?,Nitrogen,Carbon Dioxide,Oxygen,Hydrogen,option3
+3,Water boils at what temperature at sea level?,90°C,95°C,100°C,110°C,option3
+3,Which blood cells help fight infections?,Red blood cells,White blood cells,Platelets,Plasma,option2
+3,What is the nearest star to Earth?,Sirius,Alpha Centauri,The Sun,Polaris,option3
+3,Which vitamin is important for healthy eyesight?,Vitamin A,Vitamin B12,Vitamin C,Vitamin D,option1
+3,What force keeps planets revolving around the Sun?,Magnetism,Friction,Gravity,Electricity,option3
+3,Which part of the plant performs photosynthesis?,Root,Stem,Flower,Leaf,option4
+3,What is the chemical formula of water?,CO?,H?O,O?,NaCl,option2
+3,Which blood vessel carries oxygenated blood from the heart to the body?,Vein,Artery,Capillary,Venule,option2
+3,Which planet is known for its prominent rings?,Mars,Jupiter,Saturn,Uranus,option3
+3,Which gas is the most abundant in Earth's atmosphere?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,option3
+3,Which organ filters blood and produces urine?,Liver,Kidneys,Lungs,Pancreas,option2
+3,Which scientist discovered penicillin?,Alexander Fleming,Louis Pasteur,Marie Curie,Gregor Mendel,option1
+3,Which is the hardest natural substance?,Quartz,Iron,Diamond,Granite,option3
+3,Which type of energy is stored in food?,Kinetic Energy,Chemical Energy,Nuclear Energy,Sound Energy,option2
+3,Which part of the eye controls the amount of light entering the eye?,Retina,Iris,Cornea,Optic Nerve,option2
+3,Which planet is closest to the Sun?,Venus,Mercury,Earth,Mars,option2
+3,Which instrument is used to measure temperature?,Barometer,Thermometer,Hygrometer,Ammeter,option2
+3,What is the SI unit of electric current?,Volt,Watt,Ampere,Ohm,option3
+3,Which planet is known as the Morning Star?,Mars,Venus,Mercury,Jupiter,option2
+3,Which part of the human body contains the smallest bones?,Hand,Foot,Ear,Nose,option3
+3,Which gas is used by plants to prepare food during photosynthesis?,Oxygen,Carbon Dioxide,Nitrogen,Helium,option2
+3,Which scientist developed the theory of relativity?,Isaac Newton,Albert Einstein,Stephen Hawking,Niels Bohr,option2
+3,Which organ in the human body produces insulin?,Liver,Pancreas,Kidney,Stomach,option2
+3,Which vitamin helps in blood clotting?,Vitamin A,Vitamin C,Vitamin D,Vitamin K,option4
+3,Which metal is the best conductor of electricity?,Copper,Aluminium,Silver,Iron,option3
+3,Which branch of science deals with the study of living organisms?,Physics,Chemistry,Biology,Geology,option3
+3,Which gas protects Earth from harmful ultraviolet (UV) rays?,Oxygen,Nitrogen,Ozone,Carbon Dioxide,option3
+3,What is the pH value of pure water at room temperature?,5,6,7,8,option3
+3,Which planet has the greatest number of known moons (as of 2026)?,Jupiter,Saturn,Uranus,Neptune,option2
+3,Which blood group is known as the universal recipient?,O?,A+,AB+,B+,option3
+3,Which vitamin is essential for healthy blood clotting?,Vitamin A,Vitamin C,Vitamin D,Vitamin K,option4
+3,What is the speed of light in a vacuum?,"300,000 km/s","150,000 km/s","3,000 km/s","30,000 km/s",option1
+3,Which instrument is used to measure atmospheric pressure?,Thermometer,Hygrometer,Barometer,Anemometer,option3
+3,"Which planet is often called Earth's ""twin"" because of its similar size?",Mars,Venus,Mercury,Neptune,option2
+3,Which process converts a liquid into a gas at its surface?,Condensation,Evaporation,Freezing,Sublimation,option2
+3,Which branch of science studies earthquakes?,Meteorology,Seismology,Oceanography,Ecology,option2
+5,How many players are on the field for one football (soccer) team during a match?,9,10,11,12,option3
+5,Which country won the ICC Men's Cricket World Cup in 2023?,India,Australia,England,New Zealand,option2
+5,"Which sport is known as the ""Gentleman's Game""?",Tennis,Cricket,Golf,Rugby,option2
+5,"In which sport is the term ""Love"" used?",Cricket,Tennis,Football,Basketball,option2
+5,How many rings are there on the Olympic flag?,4,5,6,7,option2
+5,Which country hosted the 2024 Summer Olympics?,Japan,France,China,USA,option2
+5,Which sport uses a shuttlecock?,Table Tennis,Badminton,Tennis,Squash,option2
+5,How many players are there in a basketball team on the court at one time?,5,6,7,8,option1
+5,Which country has won the most FIFA World Cup titles (Men's)?,Germany,Italy,Brazil,Argentina,option3
+5,"In Formula 1, what color flag signals the end of the race?",Red,Green,Yellow,Chequered,option4
+5,Which country won the FIFA Men's World Cup in 2022?,France,Brazil,Argentina,Germany,option3
+5,Which sport is played at Wimbledon?,Golf,Tennis,Cricket,Hockey,option2
+5,Which country invented the game of basketball?,Canada,England,United States,Australia,option3
+5,"In cricket, how many balls are there in one over in international matches?",5,6,8,10,option2
+5,"Which Indian cricketer is known as the ""Master Blaster""?",MS Dhoni,Sachin Tendulkar,Virat Kohli,Rohit Sharma,option2
+5,Which country hosts the Tour de France cycling race?,Italy,Spain,France,Belgium,option3
+5,"Which sport uses the terms ""birdie"" and ""eagle""?",Golf,Badminton,Baseball,Tennis,option1
+5,How many points is a free throw worth in basketball?,1,2,3,4,option1
+5,Which country has won the most ICC Champions Trophy titles?,Australia,India,England,Pakistan,option2
+5,Which sport is associated with the Davis Cup?,Badminton,Cricket,Tennis,Hockey,option3
+5,Which country hosted the 2016 Summer Olympics?,China,Brazil,Japan,United Kingdom,option2
+5,In which sport is the Ryder Cup contested?,Tennis,Golf,Cricket,Rugby,option2
+5,Which Indian athlete won the gold medal in javelin throw at the Tokyo 2020 Olympics?,Milkha Singh,Neeraj Chopra,Bajrang Punia,PV Sindhu,option2
+5,How many players are there in a volleyball team on the court?,5,6,7,8,option2
+5,Which country won the ICC Men's T20 World Cup in 2024?,India,Australia,England,South Africa,option1
+5,Which sport is associated with the Thomas Cup?,Hockey,Badminton,Tennis,Table Tennis,option2
+5,Which country has won the most Olympic gold medals overall?,China,Russia,United States,Germany,option3
+5,Which chess player became the youngest undisputed World Chess Champion in 2024?,Magnus Carlsen,Ding Liren,Gukesh Dommaraju,Hikaru Nakamura,option3
+5,Which sport uses a pommel horse?,Gymnastics,Wrestling,Athletics,Boxing,option1
+5,"In cricket, how many runs are awarded for hitting the ball over the boundary without bouncing?",4,5,6,8,option3
+5,Which country won the UEFA Euro 2024 championship?,England,Spain,France,Germany,option2
+5,"In which sport is the term ""hole in one"" used?",Cricket,Golf,Baseball,Tennis,option2
+5,Which country won the first ICC Cricket World Cup in 1975?,Australia,West Indies,England,India,option2
+5,"Which sport is known as the ""King of Sports""?",Cricket,Basketball,Football (Soccer),Tennis,option3
+5,Which Indian badminton player won a silver medal at the 2016 Rio Olympics?,Saina Nehwal,PV Sindhu,Ashwini Ponnappa,Jwala Gutta,option2
+5,How long is a standard marathon race?,40.195 km,41.195 km,42.195 km,43.195 km,option3
+5,Which country hosted the FIFA Women's World Cup in 2023?,France,Australia & New Zealand,Canada,England,option2
+5,In which sport would you perform a slam dunk?,Volleyball,Basketball,Handball,Rugby,option2
+5,Which country has won the most ICC Men's Cricket World Cup titles?,India,Australia,England,West Indies,option2
+5,Which board game is recognized as a sport by the International Olympic Committee?,Ludo,Monopoly,Chess,Scrabble,option3
+5,Which country won the ICC Men's Cricket World Cup in 2011?,Australia,India,Sri Lanka,Pakistan,option2
+5,Which sport is played with a puck?,Cricket,Ice Hockey,Baseball,Rugby,option2
+5,What is the maximum score possible with a single dart in darts?,50,60,100,180,option2
+5,Which country has won the most Olympic medals in hockey (men's)?,Netherlands,Australia,India,Germany,option3
+5,"In which sport is the term ""checkmate"" used?",Tennis,Chess,Boxing,Cricket,option2
+5,How many players are there in a standard kabaddi team on the court?,5,6,7,8,option3
+5,Which country hosted the 2018 FIFA World Cup?,Germany,Brazil,Russia,Qatar,option3
+5,"Which athlete is known as the ""Fastest Man Alive"" after setting the 100 m world record?",Yohan Blake,Carl Lewis,Usain Bolt,Justin Gatlin,option3
+5,Which Grand Slam tennis tournament is played on clay courts?,Wimbledon,US Open,Australian Open,French Open,option4
+5,Which country won the inaugural FIFA Women's World Cup in 1991?,Norway,Germany,United States,Sweden,option3

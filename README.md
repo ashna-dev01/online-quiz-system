@@ -22,7 +22,7 @@ A web-based quiz application built using PHP and MySQL. It allows users to regis
 | MySQL | Database management |
 | HTML5 | Page structure |
 | CSS3 | Styling |
-| Bootstrap 5.3.8 | Responsive user interface |
+| Bootstrap 5.3.7 | Responsive user interface |
 | JavaScript | Client-side functionality |
 | XAMPP | Local development server |
 | phpMyAdmin | Database management |
